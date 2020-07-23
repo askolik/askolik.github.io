@@ -3,6 +3,7 @@ layout: post
 title:  "Getting started with Kaggle"
 date:   2016-05-29 02:07:20 +0200
 author: Andrea
+comments: true
 ---
 
 I joined Kaggle four years ago during the last few semesters of my Bachelor's degree. During this time I had taken part in various different courses on machine learning, and discovered my love for this field. I always wanted to join one of the competitions on the site, but somehow it wasn't until now that I finally got around to actually participating. In the past few years, I focused more on areas like Natural Language Processing and robotics, so I felt like a total beginner coming back to data analysis. This post is a recap of the things I have learned during my first Kaggle competition, maybe it can serve as a small guide to others who are just starting out.

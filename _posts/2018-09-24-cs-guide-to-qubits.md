@@ -3,6 +3,7 @@ layout: post
 title:  "A computer scientists' guide to qubits"
 date:   2018-09-24 21:14:20 +0200
 author: Andrea
+comments: true
 ---
 
 This is a light introduction to quantum computing and qubits geared towards computer scientists with no background in quantum physics, starting with the very basics: a mathematic view on qubits.

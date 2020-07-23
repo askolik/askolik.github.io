@@ -3,6 +3,7 @@ layout: post
 title:  "A quick introduction to TensorFlow"
 date:   2018-12-29 18:55:20 +0200
 author: Andrea
+comments: true
 ---
 
 [TensorFlow][tensorflow] has become one of the most widely used tools for training deep neural networks, especially with [Keras][keras] on top which makes it very easy to use. Though if you want to create an architecture that deviates from the standard, you run into the limits of Keras pretty quickly, so it's worth getting at least a basic understanding of how TensorFlow works. This is a quick introduction to the session and graph based programming style used by TensorFlow, geared toward those who are already familiar with neural networks in general. So let's look at a basic example of an MNIST classifier written in pure TensorFlow to get started!

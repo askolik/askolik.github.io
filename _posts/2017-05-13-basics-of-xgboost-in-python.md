@@ -3,6 +3,7 @@ layout: post
 title:  "Basics of XGBoost in Python"
 date:   2017-05-13 12:13:20 +0200
 author: Andrea
+comments: true
 ---
 
 I have spent the past week porting and automating a model training script from R to Python. The R script relied heavily on Extreme Gradient Boosting, so I had an opportunity to take a deeper look at the xgboost Python package. The new Python version of the code was supposed to stay as close as possible to the R script in the methodology of training several different models. I found the [documentation of the Python package][xgboost-docs] a little painful to read, so here is a small wrap-up of how to get started with implementing XGBoost in Python.

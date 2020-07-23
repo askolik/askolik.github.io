@@ -3,6 +3,7 @@ layout: post
 title:  "Setting up my GoPiGo"
 date:   2016-06-01 10:23:20 +0200
 author: Andrea
+comments: true
 ---
 
 I have been thinking about buying or building some kind of robot for quite a while now to play with different machine learning algorithms in combination with a "body". As I'm not much of a hardware person, it had to be as easy to assemble and maintain as possible. While researching the options, I came across [Dexter Industries' GoPiGo][dexter-industries-gopigo], a robot kit for the [Raspberry Pi][raspberry-pi]. It is aimed towards kids, but still provides enough features to be interesting for more advanced projects as well.
