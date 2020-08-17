@@ -5,7 +5,7 @@ author: Andrea
 permalink: /about/
 ---
 
-Hello stranger! My name is Andrea Skolik, and I'm a PhD student in quantum machine learning. Sometimes I feel fancy and bring my study notes into an eligible form, which you can find on this site. If you spot any errors, please feel free to report them!
+Hello stranger! My name is Andrea Skolik, and I'm a PhD student in quantum machine learning at the Volkswagen Data:Lab and Leiden University. Sometimes I feel fancy and bring my study notes into an eligible form, which you can find on this site. If you spot any errors, please feel free to report them!
 
 You can also find me in some other places:
 
